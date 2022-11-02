@@ -1,0 +1,8 @@
+extract_thenews
+extract_Dawn
+extract_tribune
+Document
+Genre
+Sentiment
+newsgenre
+copy_text
